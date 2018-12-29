@@ -174,3 +174,132 @@
 1 Urza's Incubator
 1 Vanquisher's Banner
 ```
+
+
+## [Goblins and Shiny Things](https://tappedout.net/mtg-decks/goblins-and-shiny-things-krenko-edh/)
+```
+1 Adaptive Automaton
+1 Beetleback Chief
+1 Goblin Bushwhacker
+1 Goblin Chieftain
+1 Goblin General
+1 Goblin Guide
+1 Goblin King
+1 Goblin Lackey
+1 Goblin Matron
+1 Goblin Piledriver
+1 Goblin Rabblemaster
+1 Goblin Recruiter
+1 Goblin Sharpshooter
+1 Goblin Sledder
+1 Goblin Tunneler
+1 Goblin Warchief
+1 Goblin Wizard
+1 Imperial Recruiter
+1 Kiki-Jiki, Mirror Breaker
+1 Legion Loyalist
+1 Lightning Crafter
+1 Metallic Mimic
+1 Ogre Battledriver
+1 Purphoros, God of the Forge
+1 Reckless One
+1 Siege-Gang Commander
+1 Skirk Prospector
+1 Warren Instigator
+1 Brightstone Ritual
+1 Chaos Warp
+1 Last-Ditch Effort
+1 Reverberate
+1 Aether Vial
+1 Coat of Arms
+1 Crawlspace
+1 Defense Grid
+1 Eldrazi Monument
+1 Extraplanar Lens
+1 Hammer of Purphoros
+1 Illusionist's Bracers
+1 Lightning Greaves
+1 Obelisk of Urd
+1 Paradox Engine
+1 Phyrexian Altar
+1 Rings of Brighthearth
+1 Ruby Medallion
+1 Sensei's Divining Top
+1 Skullclamp
+1 Sol Ring
+1 Swiftfoot Boots
+1 Thornbite Staff
+1 Thousand-Year Elixir
+1 Throne of the God-Pharaoh
+1 Vanquisher's Banner
+1 Ancient Tomb
+1 Buried Ruin
+1 Command Beacon
+1 Hall of the Bandit Lord
+1 Hanweir Battlements
+1 Mutavault
+1 Nykthos, Shrine to Nyx
+21 Snow-Covered Mountain
+1 Valakut, the Molten Pinnacle
+1 Blood Moon
+1 Blood Sun
+1 Boggart Shenanigans
+1 Breath of Fury
+1 Fervor
+1 Goblin Bombardment
+1 Impact Tremors
+1 Mana Echoes
+1 Price of Glory
+1 Shared Animosity
+1 By Force
+1 Goblin War Cry
+1 Goblin War Strike
+1 Hordeling Outburst
+1 Ruination
+1 Seize the Day
+```
+### Sideboard
+```
+1 Cavern of Souls
+1 Dark-Dweller Oracle
+1 Glaring Spotlight
+1 Goblin Chainwhirler
+1 Goblin Instigator
+1 Goblin Trashmaster
+1 Mana Crypt
+1 Vandalblast
+1 Volley Veteran
+```
+## [BW Vampires RIX](https://www.mtggoldfish.com/deck/899644#paper)
+```
+4 Skymarcher Aspirant
+4 Adanto Vanguard
+4 Legion Lieutenant
+3 Martyr of Dusk
+2 Forerunner of the Legion
+2 Mavren Fein, Dusk Apostle
+1 Yahenni, Undying Partisan
+3 Sanctum Seeker
+2 Twilight Prophet
+3 Fatal Push
+3 Legion's Landing
+2 Radiant Destiny
+2 Ixalan's Binding
+4 Concealed Courtyard
+1 Forsaken Sanctuary
+7 Plains
+4 Shefet Dunes
+5 Swamp
+4 Unclaimed Territory
+```
+### Sideboard
+```
+3 Duress
+1 Fatal Push
+2 Dusk Legion Zealot
+2 Forsake the Worldly
+2 Vona's Hunger
+1 Elenda, the Dusk Rose
+2 Champion of Dusk
+2 Dusk // Dawn
+```
